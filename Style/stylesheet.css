@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{height: 100vh;}
+.adress{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.h1{font-size: 25px;
+text-align: center;}
+.h2{font-size: 12px;}
+.bg{
+    display: flex;
+   
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+ background-color: black;}
+.city{width: 150px;
+padding-top: 10px;
+padding-bottom: 10px;}
+.outlet{
+    padding-inline: 4px;
+    margin-bottom: 10px;
+background-color: red;
+color: white;}
+.multi{
+    color: white;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left:120px ;
+}
+.btn a{
+color: white;
+margin-top: 20px;
+text-align: center;
+}
+.re{padding:2px 2px;
+background-color: white;}
+.logo{width: 40px;}
+.f{background-color: rgb(3, 0, 0);
+font-size: 16px;
+padding: 10px 5px;
+border: solid 2px;
+border-radius: 15px;
+margin-top: 10px;
+color: white;
+text-decoration: none;
+list-style: none;}
+.multi{
+    color: white;
+    margin-top: 10px;
+}
+.sale{font-size: 140px;
+color: white;
+display: flex;
+align-items: center;
+font-weight: bolder;
+}
+.proc{font-size: 60px;
+padding-left: 20px;
+font-weight: bold;}
+.other{color: white;
+background-color: red;
+padding-inline: 10px;
+font-size: 40px;}
+.date{
+    color: white;
+    font-size: 50px;
+}
+.brend-bg{
+    background-color: red;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}
+.brand{
+    width: 200px;
+    padding-top: 2px;
+    background-color: red;
+    height: 10vh;
+}
+.brand-text{
+    color: white;
+}
