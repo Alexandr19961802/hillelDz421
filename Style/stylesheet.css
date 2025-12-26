@@ -9,7 +9,7 @@ display: flex;
 justify-content: space-around;
 align-items: center;
 }
-.h1{font-size: 25px;
+.h1{font-size: 20px;
 text-align: center;}
 .h2{font-size: 12px;}
 .bg{
@@ -43,9 +43,9 @@ text-align: center;
 }
 .re{padding:2px 2px;
 background-color: white;}
-.logo{width: 40px;}
+.logo{width: 30px;}
 .f{background-color: rgb(3, 0, 0);
-font-size: 16px;
+font-size: 14px;
 padding: 10px 5px;
 border: solid 2px;
 border-radius: 15px;
@@ -57,22 +57,22 @@ list-style: none;}
     color: white;
     margin-top: 10px;
 }
-.sale{font-size: 140px;
+.sale{font-size: 120px;
 color: white;
 display: flex;
 align-items: center;
 font-weight: bolder;
 }
-.proc{font-size: 60px;
+.proc{font-size: 40px;
 padding-left: 20px;
 font-weight: bold;}
 .other{color: white;
 background-color: red;
 padding-inline: 10px;
-font-size: 40px;}
+font-size: 20px;}
 .date{
     color: white;
-    font-size: 50px;
+    font-size: 20px;
 }
 .brend-bg{
     background-color: red;
